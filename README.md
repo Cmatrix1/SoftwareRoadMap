@@ -10,6 +10,7 @@ This repository contains a learning roadmap for Backend, Linux, CI/CD & DevOps, 
 
 - [Goal's Tracker](/../../issues/1)
 - [Linux](#linux)
+- [Python](#python)
 - [Backend](#backend)
 - [CI/CD & DevOps & Server](#cicd--devops--server)
 - [Architecture And Software Design And Algorithm](#architecture-and-software-design-and-algorithm)
@@ -23,15 +24,22 @@ This repository contains a learning roadmap for Backend, Linux, CI/CD & DevOps, 
 - [LPIC-2: Linux Engineer Exam 201 (25h)](https://acloudguru.com/course/lpic-2-linux-engineer-exam-201?utm_source=google&utm_medium=paid-search&utm_campaign=cloud-transformation&utm_term=ssi-global-acg-core-dsa&utm_content=free-trial&gclid=EAIaIQobChMIrNS23eXj_gIVokSRBR2CtAHREAAYASAAEgKn8vD_BwE)
 - [Text Editing with Vim (Vi iMproved) (8h)](https://acloudguru.com/course/text-editing-with-vim?utm_source=google&utm_medium=paid-search&utm_campaign=cloud-transformation&utm_term=ssi-global-acg-core-dsa&utm_content=free-trial&gclid=EAIaIQobChMI4v7y4-Xj_gIVBDcYCh3v-gQ5EAAYASAAEgJ9HvD_BwE)
 
-## Backend
+## Python
 
 - [Python deep dive 1 (37h)](https://www.udemy.com/course/python-3-deep-dive-part-1/)
 - [Python deep dive 4 (40h)](https://www.udemy.com/course/python-3-deep-dive-part-4/)
-- [Two scopes of django (3.x)](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 - [Python deep dive 2 (35h)](https://www.udemy.com/course/python-3-deep-dive-part-2/)
 - [Python deep dive 3 (35h)](https://www.udemy.com/course/python-3-deep-dive-part-2/)
-- [FastAPI Docs](https://fastapi.tiangolo.com/)
+- [Clean Code in Python](https://t.me/django_developer/39)
 - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301)
+- [Python Concurrency with asyncio (Book)](https://t.me/django_developer/35)
+
+  
+## Backend
+- [Two scopes of django (3.x)](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+- [Django Design Patterns and Best Practices](https://t.me/django_developer/38)
+- [FastAPI Docs](https://fastapi.tiangolo.com/)
+
 - [SQLAlchemy ORM DOCS](https://docs.sqlalchemy.org/en/20/)
 - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
 
